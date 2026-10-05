@@ -6,6 +6,8 @@ The project explores several recommendation approaches, evaluates their performa
 
 The goal is to build a recommender that can learn from my own ratings and generate useful recommendations for movies I have not rated yet.
 
+![Example movie recommendations](assets/recommendations.png)
+
 ## Project Overview
 
 Rather than relying only on movie genres or trying to train a personalized model from a relatively small number of ratings, the final approach uses collective behaviour from the MovieLens dataset to learn relationships between movies. My own ratings are then used to personalize those relationships.
