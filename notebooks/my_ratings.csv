@@ -1,0 +1,200 @@
+movieId,title,rating
+1,Toy Story (1995),4
+10,GoldenEye (1995),4
+47,Seven (a.k.a. Se7en) (1995),5
+50,"Usual Suspects, The (1995)",5
+104,Happy Gilmore (1996),3.5
+153,Batman Forever (1995),4.5
+260,Star Wars: Episode IV - A New Hope (1977),4
+293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),4
+296,Pulp Fiction (1994),5
+318,"Shawshank Redemption, The (1994)",5
+356,Forrest Gump (1994),4.5
+362,"Jungle Book, The (1994)",3
+364,"Lion King, The (1994)",4
+480,Jurassic Park (1993),3
+586,Home Alone (1990),3
+588,Aladdin (1992),3
+592,Batman (1989),4
+593,"Silence of the Lambs, The (1991)",5
+1036,Die Hard (1988),4
+1073,Willy Wonka & the Chocolate Factory (1971),4
+1089,Reservoir Dogs (1992),4
+1097,E.T. the Extra-Terrestrial (1982),3
+1136,Monty Python and the Holy Grail (1975),3.5
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),4
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),4
+1200,Aliens (1986),4
+1210,Star Wars: Episode VI - Return of the Jedi (1983),4
+1213,Goodfellas (1990),4.5
+1214,Alien (1979),3.5
+1291,Indiana Jones and the Last Crusade (1989),3.5
+1580,Men in Black (a.k.a. MIB) (1997),4
+1704,Good Will Hunting (1997),5
+1721,Titanic (1997),4
+2028,Saving Private Ryan (1998),4.5
+2329,American History X (1998),3.5
+2628,Star Wars: Episode I - The Phantom Menace (1999),3
+2959,Fight Club (1999),5
+3578,Gladiator (2000),5
+3793,X-Men (2000),4
+4306,Shrek (2001),4
+4886,"Monsters, Inc. (2001)",4
+4963,Ocean's Eleven (2001),4.5
+4973,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",3.5
+4993,"Lord of the Rings: The Fellowship of the Ring, The (2001)",5
+5349,Spider-Man (2002),4
+5952,"Lord of the Rings: The Two Towers, The (2002)",5
+5989,Catch Me If You Can (2002),5
+6377,Finding Nemo (2003),3.5
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),4
+6874,Kill Bill: Vol. 1 (2003),4
+7153,"Lord of the Rings: The Return of the King, The (2003)",5
+8961,"Incredibles, The (2004)",3
+33794,Batman Begins (2005),4
+58559,"Dark Knight, The (2008)",5
+79132,Inception (2010),5
+80094,"Last Exorcism, The (2010)",2.5
+80748,Alice in Wonderland (1933),2.5
+81417,Paranormal Activity 2 (2010),2
+81834,Harry Potter and the Deathly Hallows: Part 1 (2010),4
+82169,"Chronicles of Narnia: The Voyage of the Dawn Treader, The (2010)",3.5
+82854,Gulliver's Travels (2010),3
+83613,Cowboys & Aliens (2011),2
+85259,Winnie the Pooh and the Honey Tree (1966),2
+101362,Olympus Has Fallen (2013),3
+102407,"Great Gatsby, The (2013)",4.5
+103228,Pacific Rim (2013),3.5
+103249,World War Z (2013),4
+103253,Elysium (2013),3.5
+103335,Despicable Me 2 (2013),3
+103339,White House Down (2013),3.5
+103596,Sharknado (2013),2
+103688,"Conjuring, The (2013)",4
+104074,Percy Jackson: Sea of Monsters (2013),3.5
+104076,"Smurfs 2, The (2013)",2.5
+104211,We're the Millers (2013),4
+104218,Grown Ups 2 (2013),3.5
+106002,Ender's Game (2013),4
+106062,Jackass Presents: Bad Grandpa (2013),3
+106330,Last Vegas (2013),3
+106487,The Hunger Games: Catching Fire (2013),4.5
+106489,"Hobbit: The Desolation of Smaug, The (2013)",4.5
+106696,Frozen (2013),3
+111362,X-Men: Days of Future Past (2014),3
+111659,Maleficent (2014),3
+111759,Edge of Tomorrow (2014),4.5
+112370,Transformers: Age of Extinction (2014),4
+112552,Whiplash (2014),4.5
+114935,Predestination (2014),3
+115617,Big Hero 6 (2014),2.5
+121129,The Hungover Games (2014),2
+122886,Star Wars: Episode VII - The Force Awakens (2015),2.5
+122902,Fantastic Four (2015),2
+131656,Shaun the Sheep Movie (2015),2
+136305,Sharknado 3: Oh Hell No! (2015),1
+140956,Ready Player One,4
+142056,Iron Man & Hulk: Heroes United (2013),2.5
+142997,Hotel Transylvania 2 (2015),2.5
+143355,Wonder Woman (2017),1.5
+148888,Zoolander 2 (2016),2.5
+109374,"Grand Budapest Hotel, The (2014)",4
+113780,"As Above, So Below (2014)",2
+105504,Captain Phillips (2013),3.5
+93139,Mega Shark vs. Crocosaurus (2010),1
+97938,Life of Pi (2012),4
+91485,"Expendables 2, The (2012)",3.5
+2404,Rambo III (1988),3.5
+134853,Inside Out (2015),3
+1380,Grease (1978),4
+152079,London Has Fallen (2016),4
+99813,"Batman: The Dark Knight Returns, Part 2 (2013)",4.5
+27478,Ali G Indahouse (2002),2
+180263,The Shining (1997),4.5
+108945,RoboCop (2014),3
+48516,"Departed, The (2006)",5
+116797,The Imitation Game (2014),4
+3034,Robin Hood (1973),3
+5995,"Pianist, The (2002)",4.5
+1994,Poltergeist (1982),2
+2393,Star Trek: Insurrection (1998),3
+161918,Sharknado 4: The 4th Awakens (2016),1
+74458,Shutter Island (2010),5
+3176,"Talented Mr. Ripley, The (1999)",3.5
+50806,Norbit (2007),2
+136503,Tom and Jerry: Shiver Me Whiskers (2006),5
+6616,Grind (2003),5
+596,Pinocchio (1940),3
+101025,Jack the Giant Slayer (2013),3
+112175,How to Train Your Dragon 2 (2014),4
+76175,Clash of the Titans (2010),3.5
+113348,Teenage Mutant Ninja Turtles (2014),3
+1208,Apocalypse Now (1979),3.5
+69844,Harry Potter and the Half-Blood Prince (2009),4.5
+117922,Ice Age: A Mammoth Christmas (2011),3
+2706,American Pie (1999),4
+75395,Frozen (2010),4
+46972,Night at the Museum (2006),3.5
+3942,Sorority House Massacre II (1990),1.5
+61160,Star Wars: The Clone Wars (2008),3.5
+7361,Eternal Sunshine of the Spotless Mind (2004),4.5
+70286,District 9 (2009),4.5
+2355,"Bug's Life, A (1998)",3.5
+4022,Cast Away (2000),4
+77206,Diary of a Wimpy Kid (2010),3
+91535,"Bourne Legacy, The (2012)",4
+60040,"Incredible Hulk, The (2008)",3.5
+162590,Bridget Jones's Baby (2016),2.5
+97701,Paranormal Activity 4 (2012),2
+2023,"Godfather: Part III, The (1990)",4
+6535,"Legally Blonde 2: Red, White & Blonde (2003)",3
+114795,Dracula Untold (2014),3
+110,Braveheart (1995),3
+5944,Star Trek: Nemesis (2002),3
+43560,Nanny McPhee (2005),3.5
+1980,Friday the 13th Part VII: The New Blood (1988),1.5
+140133,Hollywood Chainsaw Hookers (1988),2.5
+114670,Tusk (2014),3.5
+119655,Seventh Son (2014),2.5
+147286,The Adventures of Sherlock Holmes and Doctor Watson: The Treasures of Agra (1983),3.5
+66097,Coraline (2009),2
+2420,"Karate Kid, The (1984)",4
+2699,Arachnophobia (1990),2.5
+2953,Home Alone 2: Lost in New York (1992),3
+2226,"Ring, The (1927)",2
+95207,Abraham Lincoln: Vampire Hunter (2012),1.5
+2788,Monty Python's And Now for Something Completely Different (1971),3
+1867,Tarzan and the Lost City (1998),2.5
+5796,Casino Royale (1967),4
+2899,Gulliver's Travels (1939),3
+31685,Hitch (2005),3
+1388,Jaws 2 (1978),2.5
+1960,"Last Emperor, The (1987)",3
+2410,Rocky III (1982),3.5
+87222,Kung Fu Panda 2 (2011),4
+6586,American Wedding (American Pie 3) (2003),3.5
+104241,Kick-Ass 2 (2013),3
+110771,"Other Woman, The (2014)",3.5
+96588,Pitch Perfect (2012),2.5
+94777,Men in Black III (M.III.B.) (M.I.B.³) (2012),3.5
+6534,Hulk (2003),3.5
+1566,Hercules (1997),3
+135137,Pixels (2015),3
+1999,"Exorcist III, The (1990)",3.5
+2421,"Karate Kid, Part II, The (1986)",2.5
+52319,Inglorious Bastards (Quel maledetto treno blindato) (1978),4.5
+112727,Deliver Us from Evil (2014),3.5
+72378,2012 (2009),4
+55768,Bee Movie (2007),3
+168252,Logan (2017),3.5
+1028,Mary Poppins (1964),3
+1527,"Fifth Element, The (1997)",3.5
+122896,Pirates of the Caribbean: Dead Men Tell No Tales (2017),4
+7045,"Witches, The (1990)",3.5
+1588,George of the Jungle (1997),2.5
+112623,Dawn of the Planet of the Apes (2014),4
+87876,Cars 2 (2011),4
+157296,Finding Dory (2016),3
+4006,Transformers: The Movie (1986),4
+70697,G-Force (2009),3.5
+114713,Annabelle (2014),3.5
